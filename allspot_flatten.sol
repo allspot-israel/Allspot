@@ -1,7 +1,7 @@
 
 // File: https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/utils/Context.sol
-// MIT License 
-//Allspot LTD
+// MIT License
+// Copyright (c) 2021 Allspot LTD
 
 
 pragma solidity ^0.8.0;
