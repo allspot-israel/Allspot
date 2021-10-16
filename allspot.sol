@@ -11,4 +11,3 @@ contract ALTtoken is ERC20 {
     }
     
 }
-
