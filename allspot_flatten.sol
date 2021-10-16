@@ -1,7 +1,7 @@
 
 // File: https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/utils/Context.sol
 // MIT License
-// Copyright (c) 2021 Allspot LTD
+// Trademark (R) 2021 Allspot LTD
 // Allspot LTD is a PRIVATE LIMITED COMPANY registred in the UK. Company Registraition number 13288177
 
 
