@@ -1,3 +1,6 @@
+// SPDX-License-Identifier: MIT
+// Trademark (R) 2021 Allspot LTD
+// Allspot LTD is a PRIVATE LIMITED COMPANY registred in the UK. Company Registraition number 13288177
 // 0.5.1-c8a2
 // Enable optimization
 pragma solidity ^0.5.0;
