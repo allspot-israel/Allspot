@@ -1,11 +1,11 @@
 # Allspot
-Allspot BEP20 Token Smart Contract
+Allspot TRC20 Token Smart Contract
 
-# This is Allspot BEP20 Token Smart Contract source code.
+# This is Allspot TRC20 Token Smart Contract source code.
 
 this Code is licensed by MIT standards 
 and forked from this Source:
-https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC20/ERC20.sol
+https://github.com/TRON-Developer-Hub/TRC20-Contract-Template.git
 
 Trademark (R) 2021 Allspot LTD
 Allspot LTD is a PRIVATE LIMITED COMPANY registred in the UK. Company Registraition number 13288177
